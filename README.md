@@ -1,6 +1,7 @@
 # wine_and_food_recommendation_system
 카드 결제 데이터 기반 와인 추천 및 페어링 푸드 매칭 서비스 
 
+
 # 💻 프로젝트 소개
 &nbsp;코로나19 이후로 1인 가구 중심 위주의 ‘혼술’ 트렌드가 가성비 좋은 편의점 주류 매출을 견인했다. 주류 중에서도 심리적 허들이 있으며 '마리아주(*Marraige*)'라는 용어가 있을 정도로 음식과의 궁합을 중요시하는 와인에 주목했으며, 편의점 앱에서 **소비자 특성에 맞는 와인과 해당 와인에 어울리는 안주를 추천하는 서비스를 구현**하여, 크로스셀링 효과를 높이고 O4O 고객 경험을 향상하고자 하였다.  
 
@@ -10,11 +11,28 @@
 <p align="center">
 <img  src="https://github.com/qwngusp/wine_and_food_recommendation_system/assets/141501214/b01133fa-c906-4332-94da-eb6ccebd9949"  width="100%"  height="100%"></p>
 
-# 📆 기간
 
+# 📆 기간
 ### 2023.10.20 ~ 2023.11.17(1개월)
 **2023.10.20 ~ 29 : 주제 탐색 및 확정*
 <p align="center"><img src="https://github.com/qwngusp/wine_and_food_recommendation_system/assets/141501214/9fe755a5-5b5e-4192-83d8-f4c0bff366b4" width="80%" height="100%">
 </n><br>
 <em></em>
 </p>
+
+
+# 팀원구성
+- 강부희
+- 김주현
+- 김지원
+- 류혜은
+- 심예원
+- 양소연
+- 조소영
+
+
+# Tools
+<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
+<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
