@@ -21,16 +21,6 @@
 </p>
 
 
-# 팀원구성
-- 강부희
-- 김주현
-- 김지원
-- 류혜은
-- 심예원
-- 양소연
-- 조소영
-
-
 # Tools
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
